@@ -23,7 +23,7 @@ This repository hosts the baremetal source code which is used to explore AArch64
 1. Confirm `openocd` version to be as expected
    ```
    $ openocd -v
-   Open On-Chip Debugger 0.12.0+dev-01444-ge8e09b1b5 (2023-12-16-22:31)
+   Open On-Chip Debugger 0.12.0-01004-g9ea7f3d64 (2025-07-20-11:26)
    Licensed under GNU GPL v2
    For bug reports, read
    	http://openocd.org/doc/doxygen/bugs.html

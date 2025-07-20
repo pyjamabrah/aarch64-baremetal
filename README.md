@@ -14,6 +14,7 @@ This repository hosts the baremetal source code which is used to explore AArch64
    cd ~/Downloads
    git clone https://github.com/openocd-org/openocd.git
    cd openocd
+   git checkout v0.12.0
    ./bootstrap
    ./configure --enable-ftdi
    make
